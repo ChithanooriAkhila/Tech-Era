@@ -1,0 +1,20 @@
+.course-card {
+  display: flex;
+  margin: 40px;
+  box-shadow: 2px 2px 2px 2px #e8e8e8;
+  border-radius: 10px;
+}
+
+.course-text-container {
+  padding: 30px;
+  font-family: 'Roboto';
+}
+
+.course-description {
+  font-size: 22px;
+  line-height: 2.5rem;
+}
+
+.course-image {
+  height: 500px;
+}

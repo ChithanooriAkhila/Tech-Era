@@ -1,0 +1,9 @@
+.home-container {
+  padding: 40px;
+}
+
+.courses-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
